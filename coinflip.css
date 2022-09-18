@@ -41,7 +41,7 @@ body {
     margin:200px auto;  
     text-align:Center;  
    }  
-   img {  
+   .heads {  
     max-width:100%;  
    }  
    #tailsCounter span, #headsCounter span {  
@@ -50,3 +50,7 @@ body {
    #result {  
     color:#6ab344;  
    }  
+
+    .tails{
+        max-width:50%;
+    }
