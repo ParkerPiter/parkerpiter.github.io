@@ -1,2 +1,2 @@
 # parkerpiter.github.io
-Prueba JS coinflip
+Test of proyects
