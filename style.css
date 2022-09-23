@@ -110,7 +110,7 @@ img {
     }
 }
 .site-header {
-    background-image: url(banner.jpg);
+    background-image: url(../banner.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
