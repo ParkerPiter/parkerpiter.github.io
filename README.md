@@ -1,5 +1,5 @@
 # parkerpiter.github.io
-<h1>Portafolios</h1>
+
 - [WebDrums](/drums.html)
   Programa realizado con JavaScript; Es un kit de bateria con sus sonidos para tocar y probar la misma con el teclado, a su derecha
   traer sus instrucciones.
