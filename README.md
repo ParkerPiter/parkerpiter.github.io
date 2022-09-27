@@ -16,3 +16,7 @@
 
 - [QR Generator](/generator.html)
 #  Programa realizado con JavaScript; QR Generator es un generador de QR de cualquier URL/Link para el uso que necesites o quieras.
+
+
+#- [Clipboard](/clipboard.html)
+#   Programa realizado con JavaScript; Copia lo que escribas en la tabla y lo puedes pegar donde quieras.
