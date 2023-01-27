@@ -1,22 +1,22 @@
 # parkerpiter.github.io
 
 - [WebDrums](/drums.html)
-  # Programa realizado con JavaScript; Es un kit de bateria con sus sonidos para tocar y probar la misma con el teclado, a su derecha
-  # traer sus instrucciones.
+  # Program made with JavaScript; It is a drum kit with its sounds to play and test it with the keyboard, on the right.
+  # bring your instructions.
 
 
 - [WebPaint](/drawing.html)
-  # Programa realizado con JavaScript; Es una pequeña pizarra para dibujar, puedes usar los colores y tamaños de pincel que quieras y   # borrar la pizarra completa.
+  # Program made with JavaScript; It is a small blackboard for drawing, you can use the colors and brush sizes you want and # erase the whole blackboard.
 
 
 - [CoinFlipGame](/coinflip.html)
-#  Programa realizado con JavaScript; Coin Flip game, es el juego de lanzar la moneda para saber si cae cara o sello de manera
-#  aleatoria aparte trae un contador para saber cuantas veces cae cara o sello.
+#  Program made with JavaScript; Coin Flip game, is the game of flipping the coin to see if it lands heads or tails.
+#  The randomly generated counter is also included to know how many times a face or a seal falls.
 
 
 - [QR Generator](/generator.html)
-#  Programa realizado con JavaScript; QR Generator es un generador de QR de cualquier URL/Link para el uso que necesites o quieras.
+#  Program made with JavaScript; QR Generator is a QR generator of any URL/Link for any use you need or want.
 
 
-#- [Clipboard](/clipboard.html)
-#   Programa realizado con JavaScript; Copia lo que escribas en la tabla y lo puedes pegar donde quieras.
+- [Clipboard](/clipboard.html)
+#  Program made with JavaScript; it copies what you write in the table and you can paste it wherever you want.
