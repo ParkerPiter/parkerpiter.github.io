@@ -6,7 +6,7 @@
   ## Technologies : ReactJS, NodeJS, Express, HTML, CSS, API REST.
 
 - [Carts Rick and Morty](https://cards-rick-and-morty.netlify.app/).
-  ## Rick and morty cards, you can search each character by putting a number that will be the id in the API, it will show you details of the selected character as if he is alive or dead, what universe he is from, etc. There is also a special section designed exclusively with special cards designed by [Cris]().
+  ## Rick and morty cards, you can search each character by putting a number that will be the id in the API, it will show you details of the selected character as if he is alive or dead, what universe he is from, etc. There is also a special section designed exclusively with special cards designed by [Cris](https://www.instagram.com/cri_isis/).
   ## Technologies : ReactJS, NodeJS, Express, Redux, HTML, CSS, API REST.
 
 ## Other:
