@@ -1,8 +1,14 @@
 # parkerpiter.github.io
 
+##Pages:
+- [Search countries](https://app.netlify.com/sites/search-paises/overview).
+  ## Country finder web application, sorts countries alphabetically and by population using an API.
+  ## Technologies : ReactJS, NodeJS, Express. HTML, CSS, API REST.
+
+##Other:
 - [WebDrums](/drums.html)
-  # Program made with JavaScript; It is a drum kit with its sounds to play and test it with the keyboard, on the right.
-  # bring your instructions.
+  ### Program made with JavaScript; It is a drum kit with its sounds to play and test it with the keyboard, on the right.
+  ### bring your instructions.
 
 
 - [WebPaint](/drawing.html)
