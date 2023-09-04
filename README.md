@@ -1,7 +1,7 @@
 # Small projects in Markdown
 
 ## Pages:
-- ## [Search countries](https://app.netlify.com/sites/search-paises/overview).
+- ## [Search countries](https://search-paises.netlify.app/).
   ### Country finder web application, sorts countries alphabetically and by population using an API, will give you information about each country such as its capital, population and native language.
   ### Technologies : ReactJS, NodeJS, Express, HTML, CSS, API REST.
 
